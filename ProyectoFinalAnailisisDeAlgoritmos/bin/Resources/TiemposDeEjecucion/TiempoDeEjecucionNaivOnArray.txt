@@ -1,0 +1,12 @@
+Caso 1 Matriz 16x16
+Tiempo transcurrido en milisegundos: 6
+Tiempo transcurrido en nanosegundos: 5139399
+
+Caso 2 Matriz 32x32
+Tiempo transcurrido en milisegundos: 11
+Tiempo transcurrido en nanosegundos: 10849801
+
+Caso 1 Matriz 16x16
+Tiempo transcurrido en milisegundos: 6
+Tiempo transcurrido en nanosegundos: 5313201
+
